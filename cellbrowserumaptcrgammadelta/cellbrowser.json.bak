@@ -1,0 +1,39 @@
+{
+  "name": "cellbrowserumaptcrgammadelta",
+  "shortLabel": "cellbrowserumaptcrgammadelta",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Cluster",
+  "labelField": "Cluster",
+  "enumFields": [
+    "orig.ident",
+    "Cluster",
+    "nGene",
+    "nUMI",
+    "Subject",
+    "Health",
+    "Location",
+    "Sample",
+    "RNA_snn_res.0.5",
+    "seurat_clusters",
+    "Cluster"
+  ],
+  "markers": [
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumaptcrgammadelta/markers.tsv",
+      "shortLabel": "Seurat Cluster Markers"
+    }
+  ],
+  "coords": [
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumaptcrgammadelta/pca.coords.tsv",
+      "shortLabel": "Seurat pca"
+    },
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumaptcrgammadelta/umap.coords.tsv",
+      "shortLabel": "Seurat umap"
+    }
+  ],
+  "inDir": ""
+}
