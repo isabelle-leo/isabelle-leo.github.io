@@ -1,0 +1,40 @@
+{
+  "name": "cellbrowserumapmyeloidandmast",
+  "shortLabel": "cellbrowserumapmyeloidandmast",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Cluster",
+  "labelField": "Cluster",
+  "enumFields": [
+    "orig.ident",
+    "NAME",
+    "Cluster",
+    "nGene",
+    "nUMI",
+    "Subject",
+    "Health",
+    "Location",
+    "Sample",
+    "RNA_snn_res.0.5",
+    "seurat_clusters",
+    "Cluster"
+  ],
+  "markers": [
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumapmyeloidandmast/markers.tsv",
+      "shortLabel": "Seurat Cluster Markers"
+    }
+  ],
+  "coords": [
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumapmyeloidandmast/pca.coords.tsv",
+      "shortLabel": "Seurat pca"
+    },
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumapmyeloidandmast/umap.coords.tsv",
+      "shortLabel": "Seurat umap"
+    }
+  ],
+  "inDir": ""
+}
