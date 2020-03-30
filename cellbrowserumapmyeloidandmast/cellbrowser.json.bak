@@ -22,17 +22,17 @@
   ],
   "markers": [
     {
-      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumapmyeloidandmast/markers.tsv",
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumapmyeloidandmast/markers.tsv",
       "shortLabel": "Seurat Cluster Markers"
     }
   ],
   "coords": [
     {
-      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumapmyeloidandmast/pca.coords.tsv",
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumapmyeloidandmast/pca.coords.tsv",
       "shortLabel": "Seurat pca"
     },
     {
-      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cellbrowserumapmyeloidandmast/umap.coords.tsv",
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumapmyeloidandmast/umap.coords.tsv",
       "shortLabel": "Seurat umap"
     }
   ],

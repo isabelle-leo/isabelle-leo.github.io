@@ -4,6 +4,15 @@
   "abstract": "This is a local Cell Browser installation, without dataset hierarchies.\n            Please select a dataset from the list on the left.<p>\n            <p>\n            See the documentation on <a target=_blank href=\"https://cellbrowser.readthedocs.io/collections.html\">\n            dataset hierarchies</a>.\n\n        ",
   "datasets": [
     {
+      "shortLabel": "cellbrowserumapmyeloidandmast",
+      "name": "cellbrowserumapmyeloidandmast",
+      "md5": "83b028270f",
+      "sampleCount": 22886,
+      "hasFiles": [
+        "datasetDesc"
+      ]
+    },
+    {
       "shortLabel": "cellbrowserumaptcrgammadelta",
       "name": "cellbrowserumaptcrgammadelta",
       "md5": "79b9fa095f",
