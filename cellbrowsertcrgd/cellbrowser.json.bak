@@ -1,0 +1,41 @@
+{
+  "name": "cbseuro",
+  "shortLabel": "cbseuro",
+  "exprMatrix": "exprMatrix.tsv.gz",
+  "meta": "meta.tsv",
+  "geneIdType": "auto",
+  "clusterField": "Cluster",
+  "labelField": "Cluster",
+  "enumFields": [
+    "orig.ident",
+    "NAME",
+    "Cluster",
+    "nGene",
+    "nUMI",
+    "Subject",
+    "Health",
+    "Location",
+    "Sample",
+    "Gamma.chain.binary",
+    "RNA_snn_res.0.5",
+    "seurat_clusters",
+    "Cluster"
+  ],
+  "markers": [
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumaptcrgammadeltaplusscoring/markers.tsv",
+      "shortLabel": "Seurat Cluster Markers"
+    }
+  ],
+  "coords": [
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumaptcrgammadeltaplusscoring/pca.coords.tsv",
+      "shortLabel": "Seurat pca"
+    },
+    {
+      "file": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumaptcrgammadeltaplusscoring/umap.coords.tsv",
+      "shortLabel": "Seurat umap"
+    }
+  ],
+  "inDir": ""
+}

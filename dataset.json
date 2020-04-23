@@ -13,10 +13,10 @@
       ]
     },
     {
-      "shortLabel": "cellbrowserumaptcrgammadelta",
-      "name": "cellbrowserumaptcrgammadelta",
-      "md5": "79b9fa095f",
-      "sampleCount": 5784,
+      "shortLabel": "cbseuro",
+      "name": "cbseuro",
+      "md5": "5a76b7e81f",
+      "sampleCount": 10056,
       "hasFiles": [
         "datasetDesc"
       ]

@@ -10,7 +10,7 @@
       "fname": "/Users/isabelle/public_html/cb/cellbrowserumapmyeloidandmast/meta.tsv",
       "md5": "f61fd91409",
       "size": 2710119,
-      "mtime": "2020-03-30 17:18:05"
+      "mtime": "2020-04-23 02:32:05"
     },
     "inMatrix": {
       "fname": "/Volumes/MyPassport/RegevXavierCell2019UC/cbseuro/cellbrowserumapmyeloidandmast/exprMatrix.tsv.gz",
@@ -22,7 +22,7 @@
       "fname": "/Users/isabelle/public_html/cb/cellbrowserumapmyeloidandmast/exprMatrix.tsv.gz",
       "md5": "defb6bfd71",
       "size": 26865301,
-      "mtime": "2020-03-30 17:18:08"
+      "mtime": "2020-04-23 02:32:07"
     },
     "desc": {
       "fname": "desc.conf",
@@ -46,7 +46,7 @@
       "type": "uniqueString",
       "maxSize": 27,
       "diffValCount": 22886,
-      "md5": "0f65f04f11"
+      "md5": "6e7c453e2a"
     },
     {
       "name": "nCountRNA",
@@ -54,7 +54,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 7265,
-      "md5": "f8181d929b"
+      "md5": "b296178b8b"
     },
     {
       "name": "nFeatureRNA",
@@ -62,7 +62,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 2642,
-      "md5": "38a9e3aae1"
+      "md5": "b2b8fe6968"
     },
     {
       "name": "NAME",
@@ -91616,7 +91616,7 @@
       ],
       "arrType": "Uint16",
       "diffValCount": 22886,
-      "md5": "51272d1cf6"
+      "md5": "95e6276ac7"
     },
     {
       "name": "Cluster",
@@ -91686,7 +91686,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 15,
-      "md5": "bae91cb4a7"
+      "md5": "bb22fdeeec"
     },
     {
       "name": "nGene",
@@ -102264,7 +102264,7 @@
       ],
       "arrType": "Uint16",
       "diffValCount": 2642,
-      "md5": "df31f1d62d"
+      "md5": "c5595223e0"
     },
     {
       "name": "nUMI",
@@ -131334,7 +131334,7 @@
       ],
       "arrType": "Uint16",
       "diffValCount": 7265,
-      "md5": "e01fa96dd4"
+      "md5": "d60ba8d5bf"
     },
     {
       "name": "Subject",
@@ -131464,7 +131464,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 30,
-      "md5": "0d54c4ad6e"
+      "md5": "2eca13532f"
     },
     {
       "name": "Health",
@@ -131486,7 +131486,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 3,
-      "md5": "3450f497fe"
+      "md5": "d45d2faabb"
     },
     {
       "name": "Location",
@@ -131504,7 +131504,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 2,
-      "md5": "17e066fd1e"
+      "md5": "32c0e63b05"
     },
     {
       "name": "Sample",
@@ -132026,7 +132026,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 128,
-      "md5": "42ad63d787"
+      "md5": "add8857812"
     },
     {
       "name": "percentmt",
@@ -132034,7 +132034,7 @@
       "arrType": "float32",
       "type": "float",
       "diffValCount": 19620,
-      "md5": "14f40b49f5"
+      "md5": "68a665399c"
     },
     {
       "name": "RNAsnnres05",
@@ -132042,7 +132042,7 @@
       "arrType": "float32",
       "type": "int",
       "diffValCount": 15,
-      "md5": "c4a5dcdf5a"
+      "md5": "fb04bbd72e"
     },
     {
       "name": "seuratclusters",
@@ -132112,7 +132112,7 @@
       ],
       "arrType": "Uint8",
       "diffValCount": 15,
-      "md5": "73d2363932"
+      "md5": "9de95651ab"
     }
   ],
   "matrixArrType": "Uint32",
